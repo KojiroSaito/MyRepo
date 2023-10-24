@@ -1,6 +1,3 @@
-ver -support
-ver
-ver
-ver
-ver
+a = magic(5);
+disp(a)
 
