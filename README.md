@@ -1,2 +1,3 @@
 # MyRepo
-My Repository
+GitHub Actionsで自動実行するサンプル
+
